@@ -10,3 +10,5 @@ Feature :
   - Auto clear cache
   - Share memes
   - Loading screens animation
+
+## Download app : [**apk file**](https://github.com/Shah-Aayush/Meme-Share/raw/master/app-debug.apk)
